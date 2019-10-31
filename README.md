@@ -29,6 +29,7 @@ React Concurrent is the set of new, experimental React features that allow for:
 - [Dan Abramov - Suspense! - ReactFest 2018](https://www.youtube.com/watch?v=6g3g0Q_XVb4&feature=youtu.be) - The talk that introduced the idea of Suspense and React Concurrent in 2018.
 - [Yuzhi Zheng - Keynote - ReactConf 2019](https://www.youtube.com/watch?v=uXEEL9mrkAQ) - Discussing Selective Hydration, Suspense, Concurrent Mode, and more.
 - [Joe Savona - Data Fetching With Suspense In Relay - ReactConf 2019](https://www.youtube.com/watch?v=Tl0S7QkxFE4) - Fetching data using Concurrent React at Facebook.
+- [Ashley Watkins - Building The New Facebook With React and Relay - ReactConf 2019](https://www.youtube.com/watch?v=KT3XKDBZW7M) - Taking advantage of Relay and new Concurrent React features.
 
 ## Data Fetching
 
