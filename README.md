@@ -18,6 +18,8 @@ React Concurrent is the set of new, experimental React features that allow for:
 - [Talks](#talks)
 - [Data Fetching](#data-fetching)
 - [Demos](#demos)
+- [Blog posts / twitter threads](#blog-posts--twitter-threads)
+- [Examples](#examples)
 
 ## Documentation
 
@@ -42,8 +44,13 @@ React Concurrent is the set of new, experimental React features that allow for:
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - A React custom hook for data fetching with Suspense.
 
 ## Demos
-
 - [Fetching data](https://codesandbox.io/s/frosty-hermann-bztrp) - Basic data fetching example.
+
+## Blog posts / twitter threads
+- [Is Concurrent Mode just a workaround for “virtual DOM diffing” overhead?](https://twitter.com/dan_abramov/status/1120971795425832961)
+
+## Examples
+- [Relay Hooks Concurrent React Example](https://github.com/relayjs/relay-examples/blob/master/issue-tracker/README.md) - A (partial) clone of GitHub's issue feature using Concurrent Mode, Suspense, and Relay Hooks.
 
 ## License
 
