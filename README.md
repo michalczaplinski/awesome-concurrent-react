@@ -7,8 +7,10 @@
 
 # Awesome Concurrent React [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> List of resources about the React Concurrent Mode (previously called React Suspense). React Concurrent is the set of new, experimental React features that allow for:
-- React rendering to run concurrently to other browser processes which allows for e.g. native `input` to "interrupt" rendering.
+> List of resources about the React Concurrent Mode (previously called React Suspense). 
+
+React Concurrent is the set of new, experimental React features that allow for:
+- React rendering to run concurrently to other browser processes which allows for e.g. `native` input to "interrupt" rendering.
 - "Suspend" the rendering until all of component's dependencies (data or code) are available and show a fallback until then.
 
 ## Contents
@@ -28,7 +30,7 @@
 - [Yuzhi Zheng - Keynote - ReactConf 2019](https://www.youtube.com/watch?v=uXEEL9mrkAQ) - Discussing Selective Hydration, Suspense, Concurrent Mode, and more.
 - [Joe Savona - Data Fetching With Suspense In Relay - ReactConf 2019](https://www.youtube.com/watch?v=Tl0S7QkxFE4) - Fetching data using Concurrent React at Facebook.
 
-## Data Fetching2
+## Data Fetching
 
 - [relay](https://relay.dev/docs/en/experimental/a-guided-tour-of-relay#loading-states-with-suspense) - Official bindings for facebook relay library.
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
@@ -44,4 +46,4 @@
 
 ## License
 
-CC0
+[CC0](https://github.com/michalczaplinski/awesome-concurrent-react)
