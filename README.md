@@ -10,7 +10,7 @@
 > List of resources about the React Concurrent Mode (previously called React Suspense). 
 
 React Concurrent is the set of new, experimental React features that allow for:
-- React rendering to run concurrently to other browser processes which allows for e.g. `native` input to "interrupt" rendering.
+- React rendering to run concurrently to other browser processes which allows for e.g. native `input` to "interrupt" rendering.
 - "Suspend" the rendering until all of component's dependencies (data or code) are available and show a fallback until then.
 
 ## Contents
