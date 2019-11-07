@@ -33,7 +33,8 @@ React Concurrent is the set of new, experimental React features that allow for:
 - [Joe Savona - Data Fetching With Suspense In Relay - ReactConf 2019](https://www.youtube.com/watch?v=Tl0S7QkxFE4) - Fetching data using Concurrent React at Facebook.
 - [Ashley Watkins - Building The New Facebook With React and Relay - ReactConf 2019](https://www.youtube.com/watch?v=KT3XKDBZW7M) - Taking advantage of Relay and new Concurrent React features.
 
-## Data Fetching
+
+## Data Fetching Libraries
 
 - [relay](https://relay.dev/docs/en/experimental/a-guided-tour-of-relay#loading-states-with-suspense) - Official bindings for facebook relay library.
 - [swr](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
@@ -44,13 +45,18 @@ React Concurrent is the set of new, experimental React features that allow for:
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - A React custom hook for data fetching with Suspense.
 
 ## Demos
-- [Fetching data](https://codesandbox.io/s/frosty-hermann-bztrp) - Basic data fetching example.
+- [Fetching data](https://codesandbox.io/s/frosty-hermann-bztrp) - Basic data fetching example (from react docs).
+- [Relay Hooks Concurrent React Example](https://github.com/relayjs/relay-examples/blob/master/issue-tracker/README.md) - A (partial) clone of GitHub's issue feature using Concurrent Mode, Suspense, and Relay Hooks.
+- [Suspense Demo for library authors](https://github.com/gaearon/suspense-experimental-github-demo) - Sample project built with Suspense to demonstrate render-as-you-fetch.
 
 ## Blog posts / twitter threads
+- [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html) - From **official React blog**. Best practices for Suspense and Concurrent Mode learned while building the new facebook.com.
 - [Is Concurrent Mode just a workaround for “virtual DOM diffing” overhead?](https://twitter.com/dan_abramov/status/1120971795425832961)
+- [How to Enable React Concurrent Mode](https://kentcdodds.com/blog/how-to-enable-react-concurrent-mode) - Shows a simple DIY demo of concurrent React. by Kent C. Dodds.
 
-## Examples
-- [Relay Hooks Concurrent React Example](https://github.com/relayjs/relay-examples/blob/master/issue-tracker/README.md) - A (partial) clone of GitHub's issue feature using Concurrent Mode, Suspense, and Relay Hooks.
+## Podcasts
+- [Andrew Clark (React team member) on Concurrent Mode](https://reactpodcast.com/70)
+- [Joe Savona (React team member) on Relay and Data Fetching with Suspense](https://reactpodcast.com/71)
 
 ## License
 
