@@ -16,10 +16,10 @@ React Concurrent is the set of new, experimental React features that allow for:
 ## Contents
 - [Documentation](#documentation)
 - [Talks](#talks)
-- [Data Fetching](#data-fetching)
+- [Data Fetching Libraries](#data-fetching-libraries)
 - [Demos](#demos)
 - [Blog posts / twitter threads](#blog-posts--twitter-threads)
-- [Examples](#examples)
+- [Podcasts](#podcasts)
 
 ## Documentation
 
